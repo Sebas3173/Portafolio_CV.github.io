@@ -10,7 +10,7 @@ import { spectreDark } from './src/ec-theme';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://Sebas3173.github.io',
+  site: 'https://Portafolio_CV.github.io',
   output: 'static',
   integrations: [
     expressiveCode({
